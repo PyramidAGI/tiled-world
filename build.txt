@@ -1,0 +1,5 @@
+when command line input received, store in Log
+a log-cluster is a number of sentences in the Log
+a log-cluster can have its DataFrame counterpart
+a homeostat can run over Log clusters and over DataFrames
+a characteristics-detector can find similaries between DataFrames and Log clusters
